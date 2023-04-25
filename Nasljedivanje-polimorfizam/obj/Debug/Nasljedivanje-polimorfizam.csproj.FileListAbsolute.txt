@@ -1,0 +1,15 @@
+C:\Users\ucenik\source\repos\Nasljedivanje-polimorfizam\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Nasljedivanje-polimorfizam\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Nasljedivanje-polimorfizam\Nasljedivanje-polimorfizam\bin\Debug\Nasljedivanje-polimorfizam.exe.config
+C:\Users\ucenik\source\repos\Nasljedivanje-polimorfizam\Nasljedivanje-polimorfizam\bin\Debug\Nasljedivanje-polimorfizam.exe
+C:\Users\ucenik\source\repos\Nasljedivanje-polimorfizam\Nasljedivanje-polimorfizam\bin\Debug\Nasljedivanje-polimorfizam.pdb
+C:\Users\ucenik\source\repos\Nasljedivanje-polimorfizam\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.exe
+C:\Users\ucenik\source\repos\Nasljedivanje-polimorfizam\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.pdb
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\bin\Debug\Nasljedivanje-polimorfizam.exe.config
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\bin\Debug\Nasljedivanje-polimorfizam.exe
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\bin\Debug\Nasljedivanje-polimorfizam.pdb
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.exe
+C:\Users\linar\Documents\programiranje\nasljedivanje-polimorfizam-main\Nasljedivanje-polimorfizam\obj\Debug\Nasljedivanje-polimorfizam.pdb
